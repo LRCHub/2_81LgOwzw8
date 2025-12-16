@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チラチLOVE",
+  "base_artist": "M!LK",
+  "createdAt": "2025-12-16T15:14:21.744627Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チラチLOVE",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_チラチLOVE_M!LK.txt"
+    }
+  ]
+}
